@@ -9,7 +9,7 @@ FoodHub is a food aggregator app connecting customers with restaurants for seaml
 This project analyzes FoodHub's order data to uncover trends in restaurant demand, customer preferences, and delivery efficiency. Insights from this analysis will help enhance service quality and business growth.
 
 ### 🏆 **Achievement**
-This project was completed as part of the MIT Applied Data Science Program and was one of the Kaggle competition projects. The submitted notebook follows a Q&A format since it was part of an assignment, and it received a full score! 🎉
+This project was completed as part of the **MIT Applied Data Science Program** and was one of the **Kaggle competition projects**. The submitted notebook follows a **Q&A format** since it was part of an assignment, and it received a **full score**! 🎉
 
 ### 📊 **Dataset**
 
