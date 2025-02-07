@@ -15,7 +15,7 @@ This project was completed as part of the **MIT Applied Data Science Program** a
 
 The dataset contains key details of food orders, including:
 
-Order & Customer Info: Unique order and customer IDs
+Order & Customer Info: Unique order and customer IDs \
 Restaurant & Cuisine Details: Restaurant name and cuisine type
 Order Metrics: Cost, rating, food preparation time, and delivery time
 Time Information: Order placement day (weekday/weekend)
