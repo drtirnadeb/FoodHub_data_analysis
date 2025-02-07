@@ -24,4 +24,6 @@ Time Information: Order placement day (weekday/weekend)
 ✅ Customer ratings & satisfaction levels
 ✅ Food preparation & delivery efficiency
 
-### 📊 **Goal:** Data-driven insights to enhance FoodHub's operations and customer experience.
+### 📊 **Goal:** 
+
+Data-driven insights to enhance FoodHub's operations and customer experience.
